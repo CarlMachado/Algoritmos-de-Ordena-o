@@ -152,6 +152,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
+    <ClInclude Include="sort.h" />
+    <ClInclude Include="vetor.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Algoritmos de Ordenação.cpp" />
